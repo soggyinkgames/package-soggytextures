@@ -12,9 +12,7 @@
         "com.unity.mathematics": "1.2.6",
         "com.unity.burst": "1.8.5",
         "com.unity.render-pipelines.core": "17.0.3",
-        "com.unity.graphics": "1.0.0",
         "com.unity.scriptablebuildpipeline": "1.21.2",
-        "com.unity.test-framework": "2.0.0",
         "com.unity.textmeshpro": "4.0.2"
     },
     "documentationUrl": "https://example.com/",
