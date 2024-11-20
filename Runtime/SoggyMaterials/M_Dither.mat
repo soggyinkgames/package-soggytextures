@@ -7,19 +7,18 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Shade12
-  m_Shader: {fileID: -6465566751694194690, guid: 1b12ae1945127c449b2711d543f56131, type: 3}
+  m_Name: M_Dither
+  m_Shader: {fileID: -6465566751694194690, guid: 9da6727f720f8f04183e423d3a884a55, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
-  disabledShaderPasses:
-  - MOTIONVECTORS
+  disabledShaderPasses: []
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -38,31 +37,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _CutOffHeight: 0.13
-    - _EdgeWidth: 0.14
-    - _NoiseScale: 49.83
-    - _NoiseStrength: 0.9
-    - _QueueControl: 0
-    - _QueueOffset: 0
-    - _Speed1: -0.11
-    - _Speed2: -0.22
-    - _Speed3: -0.33
+    - _DitherScale: 1.04
+    - _StepThreshold: -0.43
     m_Colors:
-    - _EdgeColor: {r: 0.04976894, g: 3.1686282, b: 2.1165497, a: 1}
-    - _Noise_speed: {r: 0, g: 0, b: 0, a: 0}
-    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _ColorA: {r: 0.1509434, g: 0.12887149, b: 0.12887149, a: 0}
+    - _ColorB: {r: 0.8240564, g: 0.1782218, b: 0.8396226, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &6315800662058744057
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 9

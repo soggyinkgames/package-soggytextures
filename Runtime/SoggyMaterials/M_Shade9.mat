@@ -65,7 +65,7 @@ Material:
     m_Floats:
     - _AO_strength: 0.99
     - _Glow_intensity: 1.77
-    - _Metal_strength: 1
+    - _Metal_strength: 0.56
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
