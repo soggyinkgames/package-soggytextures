@@ -1,3 +1,22 @@
+# [1.3.0](https://github.com/soggyinkgames/package-soggytextures/compare/v1.2.0...v1.3.0) (2024-11-20)
+
+
+### Bug Fixes
+
+* remove old versions of shadergraphs ([d8cfa6f](https://github.com/soggyinkgames/package-soggytextures/commit/d8cfa6f7750874b0641cdc8311dbeba0ed33098b))
+
+
+### Features
+
+* add computed shaders images ([e578f66](https://github.com/soggyinkgames/package-soggytextures/commit/e578f66cad6cf776a2371198c4dc80707232032c))
+* add new materials ([435dead](https://github.com/soggyinkgames/package-soggytextures/commit/435deadb205aa088a8abac077b08fc21f132a8a6))
+* add new renderer feature scripts and volumes to dither tint and move custom vol in scene ([4769ff6](https://github.com/soggyinkgames/package-soggytextures/commit/4769ff6dc6ccf1891015046d113f5c569c5b6ebf))
+* add new shaders folder with computed shaders, window rain, glowing sparkles, huebrightnesssaturate editable, ([b942f74](https://github.com/soggyinkgames/package-soggytextures/commit/b942f74d8c9b55dd5987246d8773addc174b3b8a))
+* include XR-soggy-VR urp renderer and render feature ([3ea88ce](https://github.com/soggyinkgames/package-soggytextures/commit/3ea88ceeb95a4b554d6928ba63e0d250596ecf1d))
+* rename shaders folder, add new shader to scene ([7567ad6](https://github.com/soggyinkgames/package-soggytextures/commit/7567ad604107535104eb0d51d6ddad93d6deb405))
+* update all shader graphs ([c551036](https://github.com/soggyinkgames/package-soggytextures/commit/c551036125d35fe8a1414688ccef6510bcf72b80))
+* update shaders scenein package ([c7e2230](https://github.com/soggyinkgames/package-soggytextures/commit/c7e22307db55906fdf41125f7a53bea8c7621183))
+
 # [1.2.0](https://github.com/soggyinkgames/package-soggytextures/compare/v1.1.0...v1.2.0) (2024-10-20)
 
 
