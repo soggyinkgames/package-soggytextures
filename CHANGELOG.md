@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/soggyinkgames/package-soggytextures/compare/v1.3.0...v1.4.0) (2024-11-28)
+
+
+### Bug Fixes
+
+* **SW-41:** add missing assembly references to asmdef ([a463818](https://github.com/soggyinkgames/package-soggytextures/commit/a463818fb3540c4c73ca866595256d2c90f3a88d))
+* **SW-41:** add namespace to renderer feature scripts ([f726dc0](https://github.com/soggyinkgames/package-soggytextures/commit/f726dc009e7247baa4c7b0dc4680e12104edbb92))
+* **SW-41:** add renderer feature volume to vr urp renderer asset ([680f675](https://github.com/soggyinkgames/package-soggytextures/commit/680f6755b182646ab7a9c820872d0b26dde6ac4f))
+
+
+### Features
+
+* **SW-41:** add updates to sample scene ([a0968f5](https://github.com/soggyinkgames/package-soggytextures/commit/a0968f5bc2eb10d289ead0373d4ec47797d16ba7))
+
 # [1.3.0](https://github.com/soggyinkgames/package-soggytextures/compare/v1.2.0...v1.3.0) (2024-11-20)
 
 
